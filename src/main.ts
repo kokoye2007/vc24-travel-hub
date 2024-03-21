@@ -11,7 +11,7 @@ let website: any = undefined;
 WA.onInit().then(() => {
 
     WA.room.onEnterLayer('zoneWelcome').subscribe(() => {
-        popup = WA.ui.openPopup("popupWelcome", "Hi guys, welcome on the VSL Travel Hub! To find your way consult the map here.", [
+        popup = WA.ui.openPopup("popupWelcome", "Hi Geeks, welcome on the VarCamp Hub! To find your way consult the map here.", [
             {
                 className: "primary",
                 label: "Open the map",
@@ -26,7 +26,7 @@ WA.onInit().then(() => {
     WA.room.onLeaveLayer('zoneWelcome').subscribe(closePopup)
 
     WA.room.onEnterLayer('zoneBuilding').subscribe(() => {
-        popup = WA.ui.openPopup("popupBuilding","A dive into VSL.", [
+        popup = WA.ui.openPopup("popupBuilding","A dive into VarCamp.", [
             {
                 className: "primary",
                 label: "Open",
