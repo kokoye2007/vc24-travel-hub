@@ -26,12 +26,12 @@ WA.onInit().then(() => {
     WA.room.onLeaveLayer('zoneWelcome').subscribe(closePopup)
 
     WA.room.onEnterLayer('zoneBuilding').subscribe(() => {
-        popup = WA.ui.openPopup("popupBuilding","A dive into VarCamp.", [
+        popup = WA.ui.openPopup("popupBuilding","Become VarCamper.", [
             {
                 className: "primary",
                 label: "Open",
                 callback: async () => {
-                    website = await WA.nav.openCoWebSite("https://drive.google.com/uc?id=1sPr2ZLe6pF0rB3jtnzWWw0MGhhAkhNGi", false, "", 70)
+                    website = await WA.nav.openCoWebSite("https://var.camp/maps", false, "", 70)
                 }
             }
         ]);

@@ -12,47 +12,47 @@ WA.onInit().then(() => {
 
 
     WA.room.onEnterLayer('zoneComptoir1').subscribe(() => {
-        popup = WA.ui.openPopup("comptoir1Popup","Hello, become a lean all-star, start your journey here!",
+        popup = WA.ui.openPopup("comptoir1Popup","Hello, VarCamper, start your journey here!",
             [{
-                label: "Lean construction",
+                label: "Topic Board",
                 className: "primary",
                 callback: async () => {
                     if (website) { website.close(); }
-                    website = await WA.nav.openCoWebSite('https://drive.google.com/file/d/1DnzEbyhQoIxiuZrwgFQohclPjI06rTod/preview');
+                    website = await WA.nav.openCoWebSite('https://var.camp/2024-topicboard');
                 }
             },
             {
-                label: "Lean office",
+                label: "Community Corner",
                 className: "success",
                 callback: async () => {
                     if (website) { website.close(); }
-                    website = await WA.nav.openCoWebSite('https://drive.google.com/file/d/1flv1tGAwpEhuMhVCN14aiRf4XGJI9vH4/preview');
+                    website = await WA.nav.openCoWebSite('https://var.camp/2024-community-corner');
                 }
             }]
         );
     })
     WA.room.onEnterLayer('zoneComptoir2').subscribe(() => {
-        popup = WA.ui.openPopup("comptoir2Popup","Hello, lean thinking videos, choose and enjoy!",[
+        popup = WA.ui.openPopup("comptoir2Popup","Hello, VarCamper, choose and enjoy!",[
             {
-                label: "Lean principles",
+                label: "Job Fair",
                 className: "primary",
                 callback: async () => {
                     if (website) { website.close(); }
-                    website = await WA.nav.openCoWebSite('https://drive.google.com/file/d/1YV5Do1lPUOT0P4OjPsYDZA9U5n2bmscL/preview');
+                    website = await WA.nav.openCoWebSite('https://var.camp/2024-jobs');
                 }
             },
             {
-                label: "Process, why?",
+                label: "Trophy",
                 className: "success",
                 callback: async () => {
                     if (website) { website.close(); }
-                    website = await WA.nav.openCoWebSite('https://drive.google.com/file/d/10MGmfTueYjrTWG2rMb_UJSloLfrWZ1iU/preview');
+                    website = await WA.nav.openCoWebSite('https://var.camp/2024-quests');
                 }
             }
             ]);    
     })
     WA.room.onEnterLayer('zoneBar').subscribe(() => {
-        popup = WA.ui.openPopup("barPopup","Hello, I’m Tom, want to travel back to the 80’s ?",[
+        popup = WA.ui.openPopup("barPopup","Hello, I’m Ko Ko Gyi, want to travel back to the 80’s ?",[
             {
                 label: "NO",
                 className: "primary",
@@ -187,7 +187,7 @@ WA.onInit().then(() => {
     WA.room.area.onLeave('presentationScreen5').subscribe(closePopup)
 
     WA.room.onEnterLayer('zoneSecurity').subscribe(() => {
-        popup = WA.ui.openPopup("securityPopup","At VSL, we have participated in the construction of great airports! Check it out!",[
+        popup = WA.ui.openPopup("securityPopup","At VarCamp WorkAdventure Virtual Event, Check it out!",[
             {
                 label: "Watch video",
                 className: "primary",
