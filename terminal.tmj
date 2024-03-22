@@ -4639,7 +4639,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/varcamp\/vc24\/netptune"
+                         "value":"\/@\/varcamp\/vc24\/neptune"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -4673,7 +4673,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/varcamp\/vc24\/netptune"
+                         "value":"\/@\/varcamp\/vc24\/neptune"
                         }],
                  "rotation":0,
                  "type":"area",
