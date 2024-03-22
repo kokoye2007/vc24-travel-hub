@@ -1,7 +1,6 @@
 import 'dotenv/config';
 import { defineConfig } from "vite";
 import { getMaps, getMapsOptimizers, getMapsScripts, LogLevel, OptimizeOptions } from "wa-map-optimizer-vite";
-import { nodeResolve } from '@rollup/plugin-node-resolve';
 
 const maps = getMaps();
 
@@ -32,7 +31,7 @@ export default defineConfig({
             },
         },
     },
-    plugins: [...getMapsOptimizers(maps, optimizerOptions), nodeResolve()],
+    plugins: [...getMapsOptimizers(maps, optimizerOptions)],
     server: {
         host: "localhost",
         headers: {
