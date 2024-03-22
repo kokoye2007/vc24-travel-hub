@@ -2848,7 +2848,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"VSL Be More Festival - Travel hub: Welcome map"
+         "value":"VarCamp Meet Up - Travel hub: Welcome map"
         }, 
         {
          "name":"mapImage",
@@ -2858,7 +2858,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"VSL Welcome"
+         "value":"VarCamp 2024 Welcome"
         }, 
         {
          "name":"script",
