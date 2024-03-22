@@ -4235,24 +4235,24 @@
                  "y":768
                 }, 
                 {
-                 "height":32,
+                 "height":105.333333333333,
                  "id":85,
                  "name":"to-welcome",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/bci\/hub_airport\/vsl-welcome#from-terminal"
+                         "value":"\/@\/varcamp\/vc24\/varcamp-2024-welcome#from-terminal"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":192,
-                 "x":1508.09779164579,
-                 "y":2685.88553707358
+                 "width":184,
+                 "x":1506.76445831246,
+                 "y":2684.55220374025
                 }, 
                 {
-                 "height":32,
+                 "height":66.6666666666665,
                  "id":86,
                  "name":"from-welcome",
                  "properties":[
@@ -4264,9 +4264,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":64,
-                 "x":1565.11843242724,
-                 "y":2622.2571443094
+                 "width":244,
+                 "x":1470.45176576057,
+                 "y":2444.92381097607
                 }, 
                 {
                  "height":32,
@@ -6138,12 +6138,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Update: Ko Ko Ye \nCredits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"VSL Be More Festival - Travel hub: Terminal map"
+         "value":"VarCamp Terminal - Travel hub: Terminal map"
         }, 
         {
          "name":"mapImage",

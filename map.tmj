@@ -2158,13 +2158,13 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/bci\/hub_airport\/vsl-terminal#from-welcome"
+                         "value":"\/@\/varcamp\/vc24\/terminal#from-welcome"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":180,
-                 "x":360,
+                 "width":185.333333333333,
+                 "x":354.666666666667,
                  "y":1504
                 }, 
                 {
