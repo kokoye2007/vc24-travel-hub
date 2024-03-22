@@ -19,7 +19,7 @@
     "noImplicitThis": true,
     "alwaysStrict": true,
     "noFallthroughCasesInSwitch": true,
-    "sourceMap": false,
+    "sourceMap": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "esModuleInterop": true,
