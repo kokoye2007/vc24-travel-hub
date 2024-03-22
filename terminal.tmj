@@ -4755,7 +4755,7 @@
                  "name":"to-game",
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"\/@\/varcamp\/vc24\/game"
                         }],
