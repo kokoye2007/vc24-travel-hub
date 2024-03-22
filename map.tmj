@@ -2151,7 +2151,7 @@
                  "y":1525.03010493721
                 }, 
                 {
-                 "height":32,
+                 "height":52,
                  "id":24,
                  "name":"to-terminal",
                  "properties":[
@@ -2163,12 +2163,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":64,
-                 "x":416,
+                 "width":180,
+                 "x":360,
                  "y":1504
                 }, 
                 {
-                 "height":32,
+                 "height":52,
                  "id":25,
                  "name":"from-terminal",
                  "properties":[
@@ -2180,9 +2180,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":64,
-                 "x":416,
-                 "y":1536
+                 "width":184,
+                 "x":356,
+                 "y":1570.66666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2204,7 +2204,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/"
+                         "value":"https:\/\/var.camp\/2024-topicboard\/"
                         }, 
                         {
                          "name":"label",
@@ -2232,7 +2232,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/"
+                         "value":"https:\/\/var.camp\/2024-maps\/"
                         }, 
                         {
                          "name":"label",
@@ -2260,7 +2260,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/"
+                         "value":"https:\/\/var.camp\/2024-intro\/"
                         }, 
                         {
                          "name":"label",
@@ -2843,7 +2843,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Update: kokoye2007\nCredits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
