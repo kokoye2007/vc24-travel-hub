@@ -975,6 +975,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/www.youtube.com\/embed\/I_23U047qTA"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -6110,6 +6115,11 @@
          "name":"script",
          "type":"string",
          "value":"src\/terminal.ts"
+        }, 
+        {
+         "name":"tutorial",
+         "type":"bool",
+         "value":false
         }],
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
