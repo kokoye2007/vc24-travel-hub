@@ -6459,7 +6459,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":284,
@@ -6487,7 +6487,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":580,
@@ -6515,7 +6515,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":864,
@@ -6543,7 +6543,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1152,
@@ -6571,7 +6571,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1441.33333333333,
@@ -6599,7 +6599,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1829.33333333333,
@@ -6627,7 +6627,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2109.33333333333,
@@ -6655,7 +6655,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2400,
@@ -6683,7 +6683,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2685.33333333333,
@@ -6711,7 +6711,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":2974.66666666667,
